@@ -7,7 +7,7 @@ I gave this application a personailty test theme to make it fun!
 
 ### Instructions
 
-1. Click on the designated link:     -------------- 
+1. Click on the designated link:     https://limitless-crag-50011.herokuapp.com/
 
 2. Answer the 20 questions by selecting 1.(Strongly Disagree) - 5.(Strongly Agree) 
 
